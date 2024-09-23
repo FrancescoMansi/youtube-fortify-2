@@ -14,7 +14,7 @@ Per iniziare, clona la repository del progetto ed entra nella cartella appena cr
 ```bash
 git clone git@github.com:FrancescoMansi/youtube-fortify-2.git
 
-cd youtube-fortify-1
+cd youtube-fortify-2
 ```
 
 Successivamente, installa le dipendenze necessarie:
