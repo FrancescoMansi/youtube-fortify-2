@@ -12,7 +12,7 @@
 Per iniziare, clona la repository del progetto ed entra nella cartella appena creata:
 
 ```bash
-git clone git@github.com:FrancescoMansi/youtube-fortify-1.git
+git clone git@github.com:FrancescoMansi/youtube-fortify-2.git
 
 cd youtube-fortify-1
 ```
