@@ -1,4 +1,4 @@
-## Laravel Fortify Mastery - Parte 1
+## Laravel Fortify Mastery - Parte 2
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=8i1OUXaFyyA" target="_blank">
